@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Agate Necklace",
+        "image": "/images/jewellery/agateNecklace.jpg",
+        "price": "100",
+        "desc": "An antique chest."
+    },
+    {
+        "name": "Amber Glass Bracelet",
+        "image": "/images/jewellery/amberGlassBracelet.jpg",
+        "price": "150",
+        "desc": "An antique sofa."
+    },
+    {
+        "name": "Emerald Glass Necklace",
+        "image": "/images/jewellery/emeraldGlassNecklace.jpg",
+        "price": "200",
+        "desc": "An antique table."
+    },
+    {
+        "name": "Zicron and Diamond Ring",
+        "image": "/images/jewellery/ring.jpg",
+        "price": "100",
+        "desc": "An antique armoire."
+    },
+    {
+        "name": "Emerald and Diamond Ring",
+        "image": "/images/jewellery/ring2.jpg",
+        "price": "150",
+        "desc": "Antique cabinets."
+    },
+    {
+        "name": "Zicron and Diamond Ring",
+        "image": "/images/jewellery/ring3.jpg",
+        "price": "200",
+        "desc": "Antique clock."
+    },
+    {
+        "name": "Rhinestone Earrings",
+        "image": "/images/jewellery/earring.jpg",
+        "price": "100",
+        "desc": "Antique coffee table."
+    },
+    {
+        "name": "Garnet and Diamond Earrings",
+        "image": "/images/jewellery/earring2.jpg",
+        "price": "150",
+        "desc": "Antique dresser."
+    },
+    {
+        "name": "Sapphire and Diamond Earrings",
+        "image": "/images/jewellery/earring3.jpeg",
+        "price": "200",
+        "desc": "An antique mirror."
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Chest",
+        "image": "/images/furniture/chest.jpg",
+        "price": "100",
+        "desc": "An antique chest."
+    },
+    {
+        "name": "Sofa",
+        "image": "/images/furniture/sofa.jpg",
+        "price": "150",
+        "desc": "An antique sofa."
+    },
+    {
+        "name": "Table",
+        "image": "/images/furniture/table.jpg",
+        "price": "200",
+        "desc": "An antique table."
+    },
+    {
+        "name": "Armoire",
+        "image": "/images/furniture/armoire.jpg",
+        "price": "100",
+        "desc": "An antique armoire."
+    },
+    {
+        "name": "Cabinets",
+        "image": "/images/furniture/cabinets.jpg",
+        "price": "150",
+        "desc": "Antique cabinets."
+    },
+    {
+        "name": "Clock",
+        "image": "/images/furniture/clock.jpg",
+        "price": "200",
+        "desc": "Antique clock."
+    },
+    {
+        "name": "Coffee Table",
+        "image": "/images/furniture/coffeeTable.jpeg",
+        "price": "100",
+        "desc": "Antique coffee table."
+    },
+    {
+        "name": "Dresser",
+        "image": "/images/furniture/dresser.jpg",
+        "price": "150",
+        "desc": "Antique dresser."
+    },
+    {
+        "name": "Mirror",
+        "image": "/images/furniture/mirror.jpg",
+        "price": "200",
+        "desc": "An antique mirror."
+    }
+]

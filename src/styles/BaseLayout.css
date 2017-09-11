@@ -1,0 +1,44 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+}
+
+.container .dropdown .dropdown-menu a:hover
+{
+  background-color: #ccc;
+
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100vh;
+  height: 100vh;
+  border: 0px solid red;
+}
+
+body {
+  height: 100%;
+  border: 0px solid aqua;
+}
+
+.footer {
+  position: relative;
+  bottom: 0px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
+
+#seperate-content-and-footer {
+  border: 0px solid orangered;
+  min-height: 100vh;
+
+}

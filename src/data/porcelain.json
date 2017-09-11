@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/chest.jpg",
+        "price": "100",
+        "desc": "Porcelain"
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/sofa.jpg",
+        "price": "150",
+        "desc": "Porcelain"
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/table.jpg",
+        "price": "200",
+        "desc": "Porcelain"
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/armoire.jpg",
+        "price": "100",
+        "desc": "Porcelain"
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/cabinets.jpg",
+        "price": "150",
+        "desc": "Porcelain"
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/clock.jpg",
+        "price": "200",
+        "desc": "Porcelain"
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/coffeeTable.jpeg",
+        "price": "100",
+        "desc": "Antique coffee table."
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/dresser.jpg",
+        "price": "150",
+        "desc": "Antique dresser."
+    },
+    {
+        "name": "Porcelain",
+        "image": "/images/porcelain/mirror.jpg",
+        "price": "200",
+        "desc": "Porcelain"
+    }
+]
